@@ -22,7 +22,6 @@ To install stable-baselines, run the following command:
 
 ```
 pip install stable-baselines[mpi]==2.10.0
-
 ```
 
 ### Running the code
@@ -31,7 +30,6 @@ To run the code, navigate to the directory where the files are located and run t
 
 ```
 python main_anav.py
-
 ```
 
 This will train the agent on the football environment and then have it play the game. You can adjust the hyperparameters of the PPO2 algorithm, such as the learning rate and the number of epochs, by modifying the corresponding arguments in the PPO2 constructor in the main file.
