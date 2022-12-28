@@ -1,7 +1,6 @@
 ## Aerial Navigation with Reinforcement Learning
 
-This project uses reinforcement learning to train an agent to play football. The environment is a modified version of the classic football game, where the agent controls one of the players and tries to score goals against an opponent.
-
+This project uses Deep Reinforcement Learning to train UAVs to reach their targets without colliding with obstacles. 
 ### File structure
 
 The project consists of the following files:
