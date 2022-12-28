@@ -40,6 +40,9 @@ This will train the agent on the football environment and then have it play the 
 Make sure that all of the required files are in the same directory, and that the file paths specified in the main file are correct. You may also need to adjust the rendering settings in the main file to display the game properly.
 
 
+| Image                                                                | Caption                                                                |
+|----------------------------------------------------------------------|------------------------------------------------------------------------|
+| ![The red dots represent the static obstacles]((https://github.com/Aravind-11/Aerial-Navigation/blob/main/Screenshot%202021-11-20%20at%209.06.40%20PM.png) | The red dots represent the static obstacles in the environment for the aerial navigation task. |
 
 ![The red dots represent the static obstacles](https://github.com/Aravind-11/Aerial-Navigation/blob/main/Screenshot%202021-11-20%20at%209.06.40%20PM.png)
 
