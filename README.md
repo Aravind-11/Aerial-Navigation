@@ -44,6 +44,10 @@ Make sure that all of the required files are in the same directory, and that the
 |----------------------------------------------------------------------|------------------------------------------------------------------------|
 | ![The red dots represent the static obstacles]((https://github.com/Aravind-11/Aerial-Navigation/blob/main/Screenshot%202021-11-20%20at%209.06.40%20PM.png) | The red dots represent the static obstacles in the environment for the aerial navigation task. |
 
+
+
+
+
 ![The red dots represent the static obstacles](https://github.com/Aravind-11/Aerial-Navigation/blob/main/Screenshot%202021-11-20%20at%209.06.40%20PM.png)
 
 
